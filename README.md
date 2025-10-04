@@ -48,7 +48,9 @@ Pode ser que ainda não tenhamos adicionado ao nosso calendário de eventos! Se 
 <!-- SETEMBRO:END -->
 ### Outubro
 <!-- OUTUBRO:START -->
+- 10, 11 e 12: [Campus Party Weeknd Piauí](https://brasil.campus-party.org/cpweekend/piaui2/) - _Teresina/PI_ ![presencial]
 - 16 e 17: [DevOps Summit 2025](https://blueprintt.co/eventos) - _São Paulo/SP_ ![presencial]
+- 18 : [Hacktoberfest - UESPI Parnaíba](https://www.sympla.com.br/evento/hacktoberfest-phb-edition/3150069) - _Parnaiba/PI_ ![presencial]
 - 21, 22, 23, 24, 25, 26 e 27: [Python Brasil 2025](https://2025.pythonbrasil.org.br/) - _São Paulo/SP_ ![presencial]
 - 25: [Cloud Native Day - São Paulo 2025](https://sessionize.com/cloud-native-day-sp-2025/) - _São Paulo/SP_ ![presencial]
 - 25: [Hacking Na Web Day - São Paulo - 2025](https://www.instagram.com/hackingnawebday/p/dayipmguorj/) - _São Paulo/SP_ ![presencial]
